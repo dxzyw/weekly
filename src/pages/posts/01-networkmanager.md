@@ -1,4 +1,5 @@
-![](image-1.png)
+
+<img src="https://gw.alipayobjects.com/zos/k/h5/hzL4LG.jpg" width="800" />
 
 <small>NETworkManager: 网络管理与故障排除的强大工具。</small>  
 
