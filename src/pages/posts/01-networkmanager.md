@@ -1,7 +1,10 @@
 4.9k star，一款强大的网络工具，免费！
 
+![](image-1.png)
 
-**NETworkManager: 网络管理与故障排除的强大工具**
+<small>NETworkManager: 网络管理与故障排除的强大工具。</small>  
+
+**记录每周看到的开源项目精选，关注、收藏起来~**  
 
 在当今互联网时代，网络管理和故障排除是IT专业人员的重要技能。开源项目**NETworkManager**提供了一个强大的平台，以简化这些任务。本文将介绍这个项目，包括其简介、特点和如何快速开始使用。
 
@@ -10,7 +13,7 @@
 **项目简介**
 
 NETworkManager是一个开源工具，旨在帮助管理网络和解决网络问题。它由GitHub用户BornToBeRoot开发，并在GitHub上公开¹。这个项目利用.NET技术开发，提供了一个统一的界面来分析和排除网络和系统问题。
-![alt text](image-1.png)
+
 **核心特点**
 
 - **多功能网络工具箱**：NETworkManager集成了多种网络工具，如WiFi分析器、IP扫描器、端口扫描器、Ping监视器、路由跟踪、DNS查找和LLDP/CDP捕获等。
