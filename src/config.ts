@@ -1,5 +1,5 @@
 export const SITE = {
-  title: '潮流周刊',
+  title: '开源周刊',
   author: 'Tw93',
   description: '记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注',
   keywords: 'Tw93,Weekly,Blog,前端,macOS,MiaoYan,Pake,Swift,设计',
