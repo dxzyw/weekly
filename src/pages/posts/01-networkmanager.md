@@ -1,5 +1,3 @@
-4.9k star，一款强大的网络工具，免费！
-
 ![](image-1.png)
 
 <small>NETworkManager: 网络管理与故障排除的强大工具。</small>  
