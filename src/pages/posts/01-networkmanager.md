@@ -1,5 +1,5 @@
 
-<img src="https://gw.alipayobjects.com/zos/k/h5/hzL4LG.jpg" width="800" />
+<img src="https://img.picui.cn/free/2024/10/15/670e07b98075e.png" width="800" />
 
 <small>NETworkManager: 网络管理与故障排除的强大工具。</small>  
 
