@@ -47,17 +47,25 @@ function defaultLayoutPlugin() {
 		frontmatter.desc = frontmatter.desc || SITE.description;
 		frontmatter.pic = frontmatter.pic || SITE.pic;
 
-		if (!frontmatter.date) {
-			const postNumber = filePath.split('/posts/')[1].split('-')[0];
-			frontmatter.date = SITE.repo === WEEKLY_REPO_NAME
-				? getWeeklyDate(postNumber)
-				: getFileCreateDate(filePath);
-		}
+        if (!frontmatter.date) {
+            let postNumber = '0';
+            if (filePath && filePath.includes('/posts/')) {
+                const parts = filePath.split('/posts/')[1].split('-');
+                postNumber = parts.length > 0 ? parts[0] : '0';
+            }
+            frontmatter.date = SITE.repo === WEEKLY_REPO_NAME
+                ? getWeeklyDate(postNumber)
+                : getFileCreateDate(filePath);
+        }
 
-		if (SITE.repo === WEEKLY_REPO_NAME) {
-			const postNumber = filePath.split('/posts/')[1].split('-')[0];
-			frontmatter.twitterImg = getTwitterImage(postNumber);
-		}
+        if (SITE.repo === WEEKLY_REPO_NAME) {
+            let postNumber = '0';
+            if (filePath && filePath.includes('/posts/')) {
+                const parts = filePath.split('/posts/')[1].split('-');
+                postNumber = parts.length > 0 ? parts[0] : '0';
+            }
+            frontmatter.twitterImg = getTwitterImage(postNumber);
+        }
 	};
 }
 
