@@ -15,6 +15,7 @@ if __name__ == "__main__":
 
         for root, dirs, filenames in os.walk('./src/pages/posts'):
             filenames = sorted(filenames, key=lambda x: float(re.findall(r"(\d+)", x)[0]), reverse=True)
+            print (filenames)
 
         for index, name in enumerate(filenames):
             if name.endswith('.md'):

@@ -1,5 +1,6 @@
-# å¼€æºå‘¨åˆŠ
+# ¿ªÔ´ÖÜ¿¯
 
-> è®°å½•å·¥ç¨‹å¸ˆçš„ä¸æ¯ç‡¥ç”Ÿæ´»ï¼Œæ¬¢è¿è®¢é˜…ï¼
+> ¼ÇÂ¼¹¤³ÌÊ¦ Tw93 µÄ²»¿İÔïÉú»î£¬»¶Ó­¶©ÔÄ£¬Ò²»¶Ó­ [ÍÆ¼ö](https://github.com/dxzyw/weekly/discussions/22) ÄãµÄºÃ¶«Î÷£¬Fork ×ÔÓÃ¿É¼û [¿ª·¢ÎÄµµ](https://github.com/tw93/weekly/blob/main/Deploy.md)£¬ÆÚ´ıÄãÍæµÃ¿ªĞÄ~
 
-* [ç¬¬ 01 æœŸ - networkmanager](https://weekly-six-topaz.vercel.app/posts/01-networkmanager) 
+* [µÚ 02 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/02-¿ªÔ´ÖÜ¿¯)
+* [µÚ 01 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/01-¿ªÔ´ÖÜ¿¯)

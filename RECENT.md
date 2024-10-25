@@ -1,1 +1,2 @@
-* [ç¬¬ 01 æœŸ - networkmanager](https://weekly-six-topaz.vercel.app/posts/01-networkmanager) 
+* [µÚ 02 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/02-¿ªÔ´ÖÜ¿¯) - 2024-10-25
+* [µÚ 01 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/01-¿ªÔ´ÖÜ¿¯) - 2024-10-25
