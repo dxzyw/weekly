@@ -1,2 +1,2 @@
-* [µÚ 02 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/02-¿ªÔ´ÖÜ¿¯) - 2024-10-25
-* [µÚ 01 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/01-¿ªÔ´ÖÜ¿¯) - 2024-10-25
+* [ç¬¬ 02 æœŸ - å¼€æºå‘¨åˆŠ](https://weekly.herotops.xyz/posts/02-å¼€æºå‘¨åˆŠ) - 2024-10-25
+* [ç¬¬ 01 æœŸ - å¼€æºå‘¨åˆŠ](https://weekly.herotops.xyz/posts/01-å¼€æºå‘¨åˆŠ) - 2024-10-25
