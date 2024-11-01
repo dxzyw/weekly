@@ -1,6 +1,6 @@
-# ¿ªÔ´ÖÜ¿¯
+# å¼€æºå‘¨åˆŠ
 
-> ¼ÇÂ¼¹¤³ÌÊ¦ Tw93 µÄ²»¿İÔïÉú»î£¬»¶Ó­¶©ÔÄ£¬Ò²»¶Ó­ [ÍÆ¼ö](https://github.com/dxzyw/weekly/discussions/22) ÄãµÄºÃ¶«Î÷£¬Fork ×ÔÓÃ¿É¼û [¿ª·¢ÎÄµµ](https://github.com/tw93/weekly/blob/main/Deploy.md)£¬ÆÚ´ıÄãÍæµÃ¿ªĞÄ~
+> è®°å½•å·¥ç¨‹å¸ˆ Tw93 çš„ä¸æ¯ç‡¥ç”Ÿæ´»ï¼Œæ¬¢è¿è®¢é˜…ï¼Œä¹Ÿæ¬¢è¿ [æ¨è](https://github.com/dxzyw/weekly/discussions/22) ä½ çš„å¥½ä¸œè¥¿ï¼ŒFork è‡ªç”¨å¯è§ [å¼€å‘æ–‡æ¡£](https://github.com/tw93/weekly/blob/main/Deploy.md)ï¼ŒæœŸå¾…ä½ ç©å¾—å¼€å¿ƒ~
 
-* [µÚ 02 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/02-¿ªÔ´ÖÜ¿¯)
-* [µÚ 01 ÆÚ - ¿ªÔ´ÖÜ¿¯](https://weekly.herotops.xyz/posts/01-¿ªÔ´ÖÜ¿¯)
+* [ç¬¬ 02 æœŸ - å¼€æºå‘¨åˆŠ](https://weekly.herotops.xyz/posts/02-å¼€æºå‘¨åˆŠ)
+* [ç¬¬ 01 æœŸ - å¼€æºå‘¨åˆŠ](https://weekly.herotops.xyz/posts/01-å¼€æºå‘¨åˆŠ)
