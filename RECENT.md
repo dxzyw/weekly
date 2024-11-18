@@ -1,4 +1,4 @@
-* [第 05 期 - 开源周刊](https://weekly.herotops.xyz/posts/05-开源周刊) - 2024-11-15
+* [第 05 期 - 开源周刊](https://weekly.herotops.xyz/posts/05-开源周刊) - 2024-11-18
 * [第 04 期 - 开源周刊](https://weekly.herotops.xyz/posts/04-开源周刊) - 2024-11-15
 * [第 03 期 - 开源周刊](https://weekly.herotops.xyz/posts/03-开源周刊) - 2024-11-08
 * [第 02 期 - 开源周刊](https://weekly.herotops.xyz/posts/02-开源周刊) - 2024-10-25
